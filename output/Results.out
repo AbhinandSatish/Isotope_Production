@@ -1,0 +1,18 @@
+Final results - Scenario 1
+Isotope        Atoms  Activity [Bq]
+ Ra-226 2.630138e+21   3.663261e+10
+ Rn-222 0.000000e+00   0.000000e+00
+ Po-218 0.000000e+00   0.000000e+00
+
+Final results - Scenario 2
+Isotope        Atoms  Activity [Bq]
+ Ra-226 2.630138e+21   3.663261e+10
+ Rn-222 0.000000e+00   0.000000e+00
+ Po-218 8.459180e+12   3.152396e+10
+
+=== Rn-222 Released ===
+Scenario 1 (vent at 40 d): 1.793e+16 atoms
+Scenario 2 (vents at 10,20,30,40 d): 6.034e+16 atoms
+Difference (S2 - S1): 4.241e+16 atoms
+
+Total fraction of Ra-226 burned (burn term only): 1.297e-02
